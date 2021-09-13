@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Poem</title>
+  </head>
+  <body>
+    <style>
+    body {
+      background-color:orange;
+    }
+
+    </style>
+    <center>
+    <h1>Poem</h1>
+    <hr size="5px">
+    </center>
+  <center>
+    <a id="top"><h2>List of Poems</h2></a>
+<h2><a href="#p1"><i>Khamoshi</i></a></h2>
+<h2><a href="#p2"><em>Kuch Baate</em></a></h2>
+<h2><a href="#p3"><em>Sawan ka Mahinaa</em></a></h2>
+<h2><a href="#p4"><em>Ghar Chal</em></a></h2>
+  <h2><a href= "index.html "> Back to main page, click here</a></h2>
+<hr color = "rgba(100,180,20,0.02)"  width = "50%" size="15px"/>
+  </center>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  <center>
+  <a id="p1"><h1><u>KHAMOSHI</u></h1></a>
+
+  </center>
+<hr height=2px>
+<hr style="height:3px;border:none;color:#333;background-color:#333;" />
+  <pre>
+  Chup ho ke bhi vo sab bol deti hai
+  Bina soche vo sab soch leti hai
+  Agar kuch bolna hoto
+  Bina bole vo sab bol deti hai,
+
+  Har ek ko ye cheez karna aati nahi
+  Lekin jisko bhi aati hai
+  Uski ye aadat jati nahi,
+
+  Badaa hi khatarnak auzar hai ye
+  Jo bina kuch kiye
+  Bahut kuch kar jati hai,
+
+  Jisko bhi iska istemaal karna aata hai
+  Bina apraadh kiye hi
+  Apraadhi ban jata hai,
+
+  Khamoshi do hi jagha achhi lagti hai
+  Jab koi aaye ya koi jaye
+  warna baad me bahut rulati hai,
+
+  Isliye mai kehta hu
+  Jara bach ke rehna khamoshi se
+  Kyonki baad me ye bahut dukh de jati hai.
+
+  <h3>                         -- By Jaydeo</h3>
+  </pre>
+  <h2><a href="#top">Go back to Top</a></h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<center>
+<a id="p2"><h1><u>KUCH BAATE</u><h1></a>
+</center>
+<hr height=2px>
+<hr style="height:3px;border:none;color:#333;background-color:#333;" />
+  <pre>
+  Mitthi si Baat
+  Mitthi si awaz
+  Aur Mitthi si muskuraht
+  Bahut achhi lagti hai,
+
+  Kadwi si baat
+  Kadwi si awaz
+  Aur kadwi si muskuraht
+  Bahut kharab lagti hai,
+
+  Sundar si soch
+  Sunder se vichar
+  Aur Sundar si Baat
+  Bahut achhi lagti hai,
+
+  Lekin,
+  Buri si soch
+  Bure se vichar
+  Aur Buri si baat
+  Bahut kharab lagti hai,
+
+  Isliye sab kahte hai
+  Ki na bura soch
+  Na bura bolo
+  Na bura vichar aane do
+  Na bura hone do,
+
+  Achhe se bolo
+  Achhe se socho
+  Achhe se baat karo
+  Aur achhe se raho.
+
+  <b>                     -- By Jaydeo</b>
+  <h2><a href="#top">Go back to top</a></h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>
+<a id="p3"><h1><u>SAWAN KA MAHINAA</u><h1></a>
+</center>
+<hr height=2px>
+<hr style="height:3px;border:none;color:#333;background-color:#333;" />
+  <pre>
+  Sawan ka Mahinaa
+  Aata hai har saal
+  Lekin iss bar kuch alag sa hai
+  Is sawan ke mahine mein
+  Kahi dhup hai
+  To kahi baarish,
+
+  Magr ek alag si anubhuti hai
+  Jaise ki koi aapse kuch
+  kahne ki koshish kar raha ho
+  Jaise ki aapse koi baat karne
+  ki koshish kar raha ho,
+
+  Akele ho kar bhi
+  Akela mahsoos nahi kar rahe
+  Lag raha hai jaise
+  Aapke iss safar mein
+  Koi saath chal raha ho,
+
+  Phir sochne lagta hu ki
+  Aisa thode na hota hai,
+
+  Ye sab bas ek braham hai
+  Lekin , sach me kuch to hai
+  Iss saawan ke mahine me.
+
+  <b>                     -- By Jaydeo</b>
+  <h2><a href="#top">Go back to top</a></h2>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<center>
+  <a id="p4"><h1><u>GHAR CHAL </u><h1></a>
+</center>
+<hr height=2px>
+<hr style="height:3px;border:none;color:#333;background-color:#333;" />
+  <pre>
+  Aaj mai yaha waha
+  bhatak sa raha tha
+  kaha ja raha tha pta nahi,
+
+  Bas yeh ahsaas tha
+  Ki ghar se door ja raha tha
+  kaha ja raha tha pta nahi,
+
+  Jaise raste ki gheriyaan badh rahi thi
+  Mere mann ki ulijhane jhalak rahi thi
+  Mai kho sa gaya tha ki tabhi awaz aayi
+  "Ghar chal ,Arey pagal kaha ja raha hai"
+  Magr yeh ulijhane
+  MUjhe apni aur kheech rahi thi
+  Mai chalta ja raha tha
+  Awaz mere kaano mein goonj rahi thi
+  "Akele akele kaha ja raha hai,
+  Ghar chal,bas ab ghar chal "
+
+  Phirse ye awaz aayi
+  To mai ruk gaya
+  Maano samay ko samjhne lag gaya
+  Agal bagal dekhne lga
+  To pta chla ki mai
+  Chalte chalte ghar se bahut door aa gaya
+  Na jaane kyu apno se mein door aa gaya
+
+  Shaam ka saya cha raha tha
+  Andhera apni bahein phela raha tha
+  Yeh akele pan ka dar
+  Bahut sata raha tha
+  Lekin phirse ussi waqt
+  Ek awaz aayi
+  "Ghar chal ooh pagal ghar chal."
+
+
+  <b>                     -- By Jaydeo</b>
+  <br>
+  <h2><a href="#top">Go back to top</a></h2>
+<br>
+  <a href="contact.html">
+    Click here for more details of writer</a>
+  </body>
+</html>
+
